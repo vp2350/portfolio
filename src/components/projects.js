@@ -22,7 +22,7 @@ const games = [
     image: '/assets/hexenwolf.gif',
     description:
       'Fast-paced 2D top down shooter with lighting as the spotlight gameplay element.',
-    technologies: ['Unity', 'Unity Rendering Pipeline', 'A-Star'],
+    technologies: ['Unity', 'Universal Rendering Pipeline', 'A-Star'],
     github: 'https://github.com/Jacker71300/320-Project-3',
     platforms: [
       { icon: faWindows, text: 'Windows' },
@@ -35,7 +35,7 @@ const games = [
         'Hexenwolf is a fast-paced top-down shooter which provides the player with very limited lighting, forcing them to approach every situation carefully. The player can also transform into a wolf which can withstand more damage and has a devastating melee attack.',
       image: '/images/hexenwolf.png',
       roles: [
-        'Implemented the lighting and shadow system of the game using the Unity Rendering Pipeline, directing the aesthetic of the game.',
+        'Implemented the lighting and shadow system of the game using the Universal Rendering Pipeline, directing the aesthetic of the game.',
         'Implemented the enemy paths so they intelligently patrol the areas they are assigned to.',
         'Implemented the in-game menus, including the pause and end game screen functionalities.',
       ],
