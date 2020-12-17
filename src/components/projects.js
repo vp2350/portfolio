@@ -47,12 +47,11 @@ const games = [
     description: 'Tower defense game with an auto-chess shop and inventory.',
     technologies: ['Unity'],
     github: 'https://github.com/Jacker71300/320-Project-3',
-    links: 'https://github.com/JTB6154/320-Project-2/releases/download/Release/MisenchantedFortress.zip',
     platforms: [
       { icon: faWindows, text: 'Windows' },
       { icon: faApple, text: 'MacOS' },
     ],
-    links: '',
+    links: 'https://github.com/JTB6154/320-Project-2/releases/download/Release/MisenchantedFortress.zip',
     data: {
       para:
         'Misenchanted fortress is an auto-chess take on the classic tower defense genre, with three different class, Archer, Wizard, and Theurgist. Players can buy these units from the shop and combine 3 of the same type to create a stronger unit.',
