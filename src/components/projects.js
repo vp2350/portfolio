@@ -47,6 +47,7 @@ const games = [
     description: 'Tower defense game with an auto-chess shop and inventory.',
     technologies: ['Unity'],
     github: 'https://github.com/Jacker71300/320-Project-3',
+    links: 'https://github.com/JTB6154/320-Project-2/releases/download/Release/MisenchantedFortress.zip',
     platforms: [
       { icon: faWindows, text: 'Windows' },
       { icon: faApple, text: 'MacOS' },
