@@ -1,6 +1,7 @@
 import { css } from '@emotion/react';
 import Home from '../components/home';
 import Projects from '../components/projects';
+import Spotlight from '../components/spotlight';
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
         font-family: 'Open Sans', sans-serif;
       `}>
       <Home />
+      <Spotlight />
       <Projects />
     </main>
   );

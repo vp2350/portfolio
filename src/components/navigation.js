@@ -106,12 +106,15 @@ const Navigation = () => {
         <div
           css={css`
             display: grid;
-            grid-template-columns: auto auto auto;
+            grid-template-columns: auto auto auto auto;
             gap: 1rem;
             padding: calc(0.25rem / 2);
           `}>
           <a href='#home' css={linkStyling}>
             Home
+          </a>
+          <a href='#spotlight' css={linkStyling}>
+            Spotlight
           </a>
           <a href='#gameProjects' css={linkStyling}>
             Games
